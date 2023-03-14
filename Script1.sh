@@ -5,5 +5,4 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "We are learning git"
-each "this is my second script"
-each "hello all "
+
